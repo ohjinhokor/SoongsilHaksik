@@ -9,10 +9,14 @@
 > 1.0.0 -> 2.0.0 : 카카오톡 오픈빌더 인터페이스 변경으로 인한 API 변경 <p>
 > 2.0.0 -> 2.1.0 : 크롤링 자동화를 통한 반환 시간 단축
 
+&nbsp;
+  
+## 카카오톡 친구추가
 <img src="https://user-images.githubusercontent.com/71380240/212450097-cd597e85-9fc9-47e6-8dd3-086a6030a265.jpg" width="300" height="100" /> 
 
 &nbsp;
 
+## Demo GIF (로딩 속도가 느립니다. 조금만 기다려주세요)
 <img src="https://user-images.githubusercontent.com/71380240/212456685-35169b78-6010-497f-a2b5-73532d446cc5.gif"  width="300" height="600" />
 
 ## 기술스택
