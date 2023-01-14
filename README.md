@@ -1,11 +1,16 @@
 <h1 align="center"> 🍱 Soongsil Haksik 🍱 </h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-3.5-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-2.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
 &nbsp;
 
 > **숭실 학식 알림 프로젝트**
+> 1.0 -> 2.0 : 카카오톡 오픈빌더 인터페이스 변경으로인한 API 변경
+> 2.0 -> 2.1 : 크롤링 자동화를 통한 반환 시간 단축
+
+## 시스템 구조도
+
 
 <img src="https://user-images.githubusercontent.com/71380240/212450097-cd597e85-9fc9-47e6-8dd3-086a6030a265.jpg" width="300" height="100" /> 
 
