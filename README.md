@@ -67,8 +67,9 @@ gradlew clean build
 👤 **seoeun**
 
 * Github: [@seoeunbae](https://github.com/seoeunbae)
-* LinkedIn: [@SeoeunBae](https://linkedin.com/in/SeoeunBae)
 
+
+&nbsp;
 &nbsp;
 
 ## Show your support
