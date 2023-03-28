@@ -7,6 +7,8 @@
 > 1.0.0 -> 2.0.0 : 카카오톡 오픈빌더 인터페이스 변경으로 인한 API 변경 <p>
 > 2.0.0 -> 2.1.0 : 크롤링 자동화를 통해 Response 반환 시간 단축
 
+&nbsp;
+&nbsp;
 
 ## 기술스택
 
@@ -23,9 +25,20 @@
 </p>
 
 &nbsp;
+&nbsp;
 
 ## 카카오톡 친구추가
 <img src="https://user-images.githubusercontent.com/71380240/212450097-cd597e85-9fc9-47e6-8dd3-086a6030a265.jpg" width="300" height="100" /> 
+
+&nbsp;
+&nbsp;
+
+
+## 구조도
+
+![image](https://user-images.githubusercontent.com/71380240/228118176-47108b9b-0568-4073-862e-b097bd3e2184.png)
+
+&nbsp;
 
 &nbsp;
 
@@ -43,7 +56,7 @@ gradlew clean build
 <img src="https://user-images.githubusercontent.com/71380240/212456685-35169b78-6010-497f-a2b5-73532d446cc5.gif"  width="300" height="600" />
 
 &nbsp;
-
+&nbsp;
 
 ## Author
 
@@ -55,6 +68,8 @@ gradlew clean build
 
 * Github: [@seoeunbae](https://github.com/seoeunbae)
 * LinkedIn: [@SeoeunBae](https://linkedin.com/in/SeoeunBae)
+
+&nbsp;
 
 ## Show your support
 
